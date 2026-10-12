@@ -1,0 +1,13 @@
+﻿FactSpendingKey,VisitorTypeKey,Expense_Category,Pct_Share,Avg_Spend_Per_Day_USD,Avg_Spend_Trip_USD
+1,2,Thuê phòng lưu trú,0.335,44.2,389.9
+2,2,Ăn uống,0.24,31.7,279.4
+3,2,Mua sắm hàng hóa,0.165,21.8,192.1
+4,2,Đi lại nội địa,0.128,16.9,149.0
+5,2,"Tham quan, vui chơi giải trí",0.087,11.5,101.3
+6,2,Dịch vụ y tế & dịch vụ khác,0.045,5.9,52.3
+7,1,Thuê phòng lưu trú,0.285,17.1,45.6
+8,1,Ăn uống,0.31,18.6,49.6
+9,1,Mua sắm quà lưu niệm,0.15,9.0,24.0
+10,1,Phương tiện vận chuyển,0.145,8.7,23.2
+11,1,Vé tham quan & giải trí,0.08,4.8,12.8
+12,1,Dịch vụ khác,0.03,1.8,4.8
