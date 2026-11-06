@@ -1,0 +1,13 @@
+﻿Visitor_Type,Expense_Category,Pct_Share,Avg_Spend_Per_Day_USD,Avg_Spend_Trip_USD
+Khách quốc tế,Thuê phòng lưu trú,33.5,44.2,389.9
+Khách quốc tế,Ăn uống,24.0,31.7,279.4
+Khách quốc tế,Mua sắm hàng hóa,16.5,21.8,192.1
+Khách quốc tế,Đi lại nội địa,12.8,16.9,149.0
+Khách quốc tế,"Tham quan, vui chơi giải trí",8.7,11.5,101.3
+Khách quốc tế,Dịch vụ y tế & dịch vụ khác,4.5,5.9,52.3
+Khách nội địa,Thuê phòng lưu trú,28.5,17.1,45.6
+Khách nội địa,Ăn uống,31.0,18.6,49.6
+Khách nội địa,Mua sắm quà lưu niệm,15.0,9.0,24.0
+Khách nội địa,Phương tiện vận chuyển,14.5,8.7,23.2
+Khách nội địa,Vé tham quan & giải trí,8.0,4.8,12.8
+Khách nội địa,Dịch vụ khác,3.0,1.8,4.8
